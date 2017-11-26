@@ -27,9 +27,9 @@ The snapshot of my result is shown below.
 
 There were three different tabletop configurations. I got the score of acurracy 100% for test1, 100% for test2, and 87.5% for test3, respectively. 
 
-100% (3/3) objects in test1.world
-100% (4/5) objects in test2.world
-87.5% (7/8) objects in test3.world
+- 100% (3/3) objects in test1.world
+- 100% (4/5) objects in test2.world
+- 87.5% (7/8) objects in test3.world
 
 The snapshot of my result in test3 is shown below.
 ![alt text][p2]
