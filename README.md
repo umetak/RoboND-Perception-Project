@@ -1,10 +1,13 @@
 ﻿## Project: Perception Pick & Place
 ###Exercise 1, 2 and 3 pipeline implemented
 
+---
+
+[//]: # (Image References)
 [p1]: ./images/fig1.png
 [p2]: ./images/fig2.png
 [p3]: ./images/fig3.png
----
+
 
 ### Exercise 1, 2 and 3 pipeline implemented
 #### 1. Complete Exercise 1 steps. Pipeline for filtering and RANSAC plane fitting implemented.
